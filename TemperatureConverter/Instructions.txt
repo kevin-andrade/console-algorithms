@@ -1,0 +1,4 @@
+You want to convert a temperature measurement from the Celsius scale to Fahrenheit or vice versa. For
+To do this, you must build a program that reads the letter "C" or "F" indicating which scale it will be
+reported a temperature. Then the program should show the temperature on the other scale with two decimal places. 
+Below is the formula to convert from Fahrenheit to Celsius (you must deduce the formula from Celsius to Fahrenheit):

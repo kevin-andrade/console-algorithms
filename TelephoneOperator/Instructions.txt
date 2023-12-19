@@ -1,0 +1,3 @@
+A telephone operator charges R$50.00 for a basic plan that entitles you to 100 minutes of
+telephone. Each minute that exceeds the 100-minute allowance costs R$2.00. Make a program for
+read the number of minutes a person consumed, then show the amount to be paid.

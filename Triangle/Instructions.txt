@@ -1,0 +1,5 @@
+// Make a program to read the measurements of the sides of two triangles X and Y (assume measurements
+// valid). Then, show the value of the areas of the two triangles and say which of the two triangles
+// has the largest area.
+// The formula for calculating the area of ​​a triangle from the measurements of its sides a, b and c is
+// following (Heron's formula):

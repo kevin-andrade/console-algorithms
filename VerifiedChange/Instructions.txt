@@ -1,0 +1,5 @@
+Create a program to calculate change in the payment process for a grocery store product.
+The program must read the unit price of the product, the number of units purchased of this product,
+and the cash value given by the customer. Your program must show the amount of change to be returned
+to the client. If the money given by the customer is not enough, show a message informing the
+remaining value as per example.

@@ -1,0 +1,5 @@
+Instructions for Running the Program:
+
+Make a program to read an employee's data (name, gross salary and tax). 
+Then show the data from the employee (name and net salary).
+Then raise the salary of the employee based on a given percentage (only the gross salary is affected by the percentage) and show the employee data.
