@@ -17,6 +17,7 @@ appsettings.json
 secrets.json
 
 # Visual Studio Code
+.vs
 .vscode/
 .vscode-test/
 *.code-workspace
